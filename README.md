@@ -24,6 +24,9 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 ...\> py -m pip install Django
 
 ...\> py -m django --version
+...\> py -m django --version
+...\> py -m django --version
+...\> py -m django --version
 
 
 ...\> mkdir djangotutorial
