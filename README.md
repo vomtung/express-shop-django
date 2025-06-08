@@ -20,6 +20,11 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 
+https://docs.djangoproject.com/en/5.2/topics/templates/
+https://docs.djangoproject.com/en/5.2/topics/templates/
+https://docs.djangoproject.com/en/5.2/topics/templates/
+https://docs.djangoproject.com/en/5.2/topics/templates/
+
 
 ...\> py -m pip install Django
 
