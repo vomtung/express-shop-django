@@ -2,6 +2,14 @@
 
 
 https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+
+https://docs.djangoproject.com/en/5.2/intro/tutorial02/
+https://docs.djangoproject.com/en/5.2/intro/tutorial02/
+https://docs.djangoproject.com/en/5.2/intro/tutorial02/
+https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 
 
 ...\> py -m django --version
@@ -13,4 +21,7 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial01/
 ...\> django-admin startproject mysite djangotutorial
 
 
+py manage.py runserver
+py manage.py runserver
+py manage.py runserver
 py manage.py runserver
