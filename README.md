@@ -34,8 +34,24 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 
 ...\> django-admin startproject mysite djangotutorial
 
+...\>py manage.py startapp shop
+...\>py manage.py startapp shop
+...\>py manage.py startapp shop
+...\>py manage.py startapp shop
+
 
 py manage.py runserver
 py manage.py runserver
 py manage.py runserver
 py manage.py runserver
+
+# application url 
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/
+
+http://127.0.0.1:8000/main/home
+http://127.0.0.1:8000/main/home
+http://127.0.0.1:8000/main/home
+http://127.0.0.1:8000/main/home
