@@ -14,3 +14,6 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial01/
 
 
 py manage.py runserver
+py manage.py runserver
+py manage.py runserver
+py manage.py runserver
