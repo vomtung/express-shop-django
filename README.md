@@ -26,6 +26,12 @@ https://docs.djangoproject.com/en/5.2/topics/templates/
 https://docs.djangoproject.com/en/5.2/topics/templates/
 
 
+# template
+https://templatemo.com/tm-556-catalog-z
+https://templatemo.com/tm-556-catalog-z
+https://templatemo.com/tm-556-catalog-z
+https://templatemo.com/tm-556-catalog-z
+
 ...\> py -m pip install Django
 
 ...\> py -m django --version
