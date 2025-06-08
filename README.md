@@ -10,4 +10,7 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial01/
 ...\> mkdir djangotutorial
 
 
+...\> django-admin startproject mysite djangotutorial
+
+
 py manage.py runserver
