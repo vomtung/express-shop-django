@@ -75,8 +75,8 @@ http://127.0.0.1:8000/
 
 http://127.0.0.1:8000/main/home
 http://127.0.0.1:8000/main/home
-http://127.0.0.1:8000/main/home
-http://127.0.0.1:8000/main/home
+http://127.0.0.1:8000/main
+http://127.0.0.1:8000/main
 
 http://127.0.0.1:8000/express-shop-django/
 http://127.0.0.1:8000/express-shop-django/
