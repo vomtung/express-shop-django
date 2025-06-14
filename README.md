@@ -62,6 +62,16 @@ pip install mysqlclient </br>
 pip install mysqlclient </br>
 pip install mysqlclient </br>
 
+# check mysql connection
+python manage.py showmigrations  </br>
+python manage.py showmigrations  </br>
+python manage.py showmigrations  </br>
+python manage.py showmigrations  </br>
+
+python manage.py check  </br>
+python manage.py check  </br>
+python manage.py check  </br>
+python manage.py check  </br>
 
 
 # create app
