@@ -77,19 +77,20 @@ py manage.py runserver
 py manage.py runserver
 
 # application url 
-http://127.0.0.1:8000/  </br>
-http://127.0.0.1:8000/  </br>
-http://127.0.0.1:8000/  </br>
-http://127.0.0.1:8000/  </br>
+h
 
-http://127.0.0.1:8000/main/home
-http://127.0.0.1:8000/main/home
-http://127.0.0.1:8000/main
-http://127.0.0.1:8000/main
+http://127.0.0.1:8000/main/home  </br>
+http://127.0.0.1:8000/main/home  </br>
+http://127.0.0.1:8000/main/home  </br>
+http://127.0.0.1:8000/main/home  </br>
 
-http://127.0.0.1:8000/express-shop-django/
-http://127.0.0.1:8000/express-shop-django/
-http://127.0.0.1:8000/express-shop-django/
-http://127.0.0.1:8000/express-shop-django/
+
+http://127.0.0.1:8000/main  </br>
+http://127.0.0.1:8000/main  </br>
+
+http://127.0.0.1:8000/express-shop-django/  </br>
+http://127.0.0.1:8000/express-shop-django/  </br>
+http://127.0.0.1:8000/express-shop-django/  </br>
+http://127.0.0.1:8000/express-shop-django/  </br>
 
 
