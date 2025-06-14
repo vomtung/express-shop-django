@@ -81,10 +81,10 @@ python manage.py check  </br>
 ...\>py manage.py startapp shop </br>
 
 # start app
-py manage.py runserver
-py manage.py runserver
-py manage.py runserver
-py manage.py runserver
+py manage.py runserver  </br>
+py manage.py runserver  </br>
+py manage.py runserver  </br>
+py manage.py runserver  </br>
 
 # application url 
 
