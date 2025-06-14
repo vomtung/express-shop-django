@@ -25,6 +25,11 @@ https://docs.djangoproject.com/en/5.2/topics/templates/
 https://docs.djangoproject.com/en/5.2/topics/templates/
 https://docs.djangoproject.com/en/5.2/topics/templates/
 
+# intellj pycharm key
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
 
 # template
 https://templatemo.com/tm-556-catalog-z
@@ -45,12 +50,13 @@ https://templatemo.com/tm-556-catalog-z
 
 ...\> django-admin startproject mysite djangotutorial
 
+# create app
 ...\>py manage.py startapp shop
 ...\>py manage.py startapp shop
 ...\>py manage.py startapp shop
 ...\>py manage.py startapp shop
 
-
+# start app
 py manage.py runserver
 py manage.py runserver
 py manage.py runserver
