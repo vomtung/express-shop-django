@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'express_shop_django.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'express_shop_django',
+        'NAME': 'express-shop-django',
         'USER': 'root',
         'PASSWORD': '123456',
         'HOST': 'localhost',  # hoặc IP database server
