@@ -55,6 +55,15 @@ https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 
 ...\> django-admin startproject mysite djangotutorial
 
+
+# install mysqlclient
+pip install mysqlclient </br>
+pip install mysqlclient </br>
+pip install mysqlclient </br>
+pip install mysqlclient </br>
+
+
+
 # create app
 ...\>py manage.py startapp shop
 ...\>py manage.py startapp shop
@@ -68,10 +77,10 @@ py manage.py runserver
 py manage.py runserver
 
 # application url 
-http://127.0.0.1:8000/
-http://127.0.0.1:8000/
-http://127.0.0.1:8000/
-http://127.0.0.1:8000/
+http://127.0.0.1:8000/  </br>
+http://127.0.0.1:8000/  </br>
+http://127.0.0.1:8000/  </br>
+http://127.0.0.1:8000/  </br>
 
 http://127.0.0.1:8000/main/home
 http://127.0.0.1:8000/main/home
