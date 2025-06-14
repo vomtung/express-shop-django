@@ -75,10 +75,10 @@ python manage.py check  </br>
 
 
 # create app
-...\>py manage.py startapp shop
-...\>py manage.py startapp shop
-...\>py manage.py startapp shop
-...\>py manage.py startapp shop
+...\>py manage.py startapp shop </br>
+...\>py manage.py startapp shop </br>
+...\>py manage.py startapp shop </br>
+...\>py manage.py startapp shop </br>
 
 # start app
 py manage.py runserver
@@ -87,7 +87,7 @@ py manage.py runserver
 py manage.py runserver
 
 # application url 
-h
+
 
 http://127.0.0.1:8000/main/home  </br>
 http://127.0.0.1:8000/main/home  </br>
