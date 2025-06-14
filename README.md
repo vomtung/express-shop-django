@@ -37,6 +37,11 @@ https://templatemo.com/tm-556-catalog-z
 https://templatemo.com/tm-556-catalog-z
 https://templatemo.com/tm-556-catalog-z
 
+https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
+https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
+https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
+https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
+
 ...\> py -m pip install Django
 
 ...\> py -m django --version
