@@ -95,7 +95,7 @@ pass:123456
 ```
 
 # check connection
-python manage.py check  </br>
+python manage.py check  
 python manage.py check  </br>
 python manage.py check  </br>
 python manage.py check  </br>
