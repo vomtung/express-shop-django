@@ -49,21 +49,26 @@ https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 ...\> py -m django --version
 ...\> py -m django --version
 ...\> py -m django --version
-```
+
 
 ...\> mkdir djangotutorial
 
 
 ...\> django-admin startproject mysite djangotutorial
-
+...\> django-admin startproject mysite djangotutorial
+...\> django-admin startproject mysite djangotutorial
+...\> django-admin startproject mysite djangotutorial
+```
 
 
 
 # install mysqlclient
+```bash
 pip install mysqlclient </br>
 pip install mysqlclient </br>
 pip install mysqlclient </br>
 pip install mysqlclient </br>
+```
 
 # create SQLlite table
 ```bash
@@ -85,9 +90,11 @@ python manage.py createsuperuser
 username:root
 email:root@mail.com
 pass:123456
+pass:123456
 
 ```
 
+# check connection
 python manage.py check  </br>
 python manage.py check  </br>
 python manage.py check  </br>
@@ -129,5 +136,10 @@ http://127.0.0.1:8000/shop  </br>
 http://127.0.0.1:8000/shop  </br>
 http://127.0.0.1:8000/shop  </br>
 http://127.0.0.1:8000/shop  </br>
+
+http://127.0.0.1:8000/admin/  </br>
+http://127.0.0.1:8000/admin/  </br>
+http://127.0.0.1:8000/admin/  </br>
+http://127.0.0.1:8000/admin/  </br>
 
 
