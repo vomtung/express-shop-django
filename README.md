@@ -56,6 +56,16 @@ https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 
 ...\> django-admin startproject mysite djangotutorial
 
+# table
+```SQL
+SELECT * FROM `express-shop-django`.CREATE TABLE `application_settings` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `CONFIG_KEY` varchar(100) NOT NULL,
+  `CONFIG_VALUE` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+;
+```
 
 # install mysqlclient
 pip install mysqlclient </br>
