@@ -8,3 +8,4 @@ main/__pycache__/models.cpython-313.pyc
 main/migrations/__pycache__/__init__.cpython-313.pyc
 shop/migrations/__pycache__/__init__.cpython-313.pyc
 main/__pycache__/views.cpython-313.pyc
+main/migrations/__pycache__/0001_initial.cpython-313.pyc

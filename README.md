@@ -77,6 +77,17 @@ python manage.py migrate
 python manage.py migrate
 ```
 
+```bash
+python manage.py createsuperuser
+python manage.py createsuperuser
+python manage.py createsuperuser
+python manage.py createsuperuser
+username:root
+email:root@mail.com
+pass:123456
+
+```
+
 python manage.py check  </br>
 python manage.py check  </br>
 python manage.py check  </br>
