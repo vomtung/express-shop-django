@@ -18,7 +18,7 @@ https://docs.djangoproject.com/en/5.2/intro/tutorial01/
 https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 https://docs.djangoproject.com/en/5.2/intro/tutorial02/
-https://docs.djangoproject.com/en/5.2/intro/tutorial02/
+https://docs.djangoproject.com/en/5.2/intro/tutorial02/  </br>
 
 https://docs.djangoproject.com/en/5.2/topics/templates/
 https://docs.djangoproject.com/en/5.2/topics/templates/
@@ -35,20 +35,21 @@ https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.m
 https://templatemo.com/tm-556-catalog-z
 https://templatemo.com/tm-556-catalog-z
 https://templatemo.com/tm-556-catalog-z
-https://templatemo.com/tm-556-catalog-z
+https://templatemo.com/tm-556-catalog-z  </br>
 
 https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 https://www.exabytes.sg/blog/website-defacement-monitoring-tools/
 
+``` cmd
 ...\> py -m pip install Django
 
 ...\> py -m django --version
 ...\> py -m django --version
 ...\> py -m django --version
 ...\> py -m django --version
-
+```
 
 ...\> mkdir djangotutorial
 
@@ -97,10 +98,17 @@ http://127.0.0.1:8000/main/home  </br>
 
 http://127.0.0.1:8000/main  </br>
 http://127.0.0.1:8000/main  </br>
+http://127.0.0.1:8000/main  </br>
+http://127.0.0.1:8000/main  </br>
 
 http://127.0.0.1:8000/express-shop-django/  </br>
 http://127.0.0.1:8000/express-shop-django/  </br>
 http://127.0.0.1:8000/express-shop-django/  </br>
 http://127.0.0.1:8000/express-shop-django/  </br>
+
+http://127.0.0.1:8000/shop  </br>
+http://127.0.0.1:8000/shop  </br>
+http://127.0.0.1:8000/shop  </br>
+http://127.0.0.1:8000/shop  </br>
 
 
