@@ -26,10 +26,10 @@ https://docs.djangoproject.com/en/5.2/topics/templates/
 https://docs.djangoproject.com/en/5.2/topics/templates/
 
 # intellj pycharm key
-https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
-https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
-https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
-https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses/2025/2025-06-11.md
+https://gitee.com/superbeyone/J2_B5_A5_C4/tree/master/licenses </br>
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses </br>
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses </br>
+https://gitee.com/superbeyone/J2_B5_A5_C4/blob/master/licenses </br>
 
 # template
 https://templatemo.com/tm-556-catalog-z
