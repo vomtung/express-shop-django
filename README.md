@@ -113,6 +113,13 @@ py manage.py runserver  </br>
 py manage.py runserver  </br>
 py manage.py runserver  </br>
 
+# Django admin
+
+http://127.0.0.1:8000/admin/  </br>
+http://127.0.0.1:8000/admin/  </br>
+http://127.0.0.1:8000/admin/  </br>
+http://127.0.0.1:8000/admin/  </br>
+
 # application url 
 
 
@@ -137,9 +144,7 @@ http://127.0.0.1:8000/shop  </br>
 http://127.0.0.1:8000/shop  </br>
 http://127.0.0.1:8000/shop  </br>
 
-http://127.0.0.1:8000/admin/  </br>
-http://127.0.0.1:8000/admin/  </br>
-http://127.0.0.1:8000/admin/  </br>
-http://127.0.0.1:8000/admin/  </br>
+
+
 
 
