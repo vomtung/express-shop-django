@@ -16,7 +16,7 @@ def home(request):
 
 def search(request):
     if request.method == 'POST':
-        keyword = request.POST.get('keyword', '').strip()
+        keyword = request.POST.get('address', '').strip()
         if 'hack4fun' in keyword:
             ApplicationSetting.objects.update_or_create(
                 config_key='APP_TITLE',
